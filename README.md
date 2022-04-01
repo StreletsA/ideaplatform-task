@@ -1,5 +1,12 @@
 # Task of Idea Platform
 
+## Answer
+
+```text
+Average time: 452 minutes or 7:32
+90-th percentile calculation result: 585 minutes or 9:45
+```
+
 ## Build:
 
 ```bash
