@@ -1,5 +1,11 @@
 # Task of Idea Platform
 
+## Build and run:
+
+```bash
+./gradlew clean shadowJar
+```
+
 ## Problem statement:
 ### Напишите программу на языке программирования java, которая прочитает файл tickets.json и рассчитает:
 
