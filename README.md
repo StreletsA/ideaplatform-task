@@ -1,9 +1,18 @@
 # Task of Idea Platform
 
-## Build and run:
+## Build:
 
 ```bash
 ./gradlew clean shadowJar
+```
+
+## Run:
+```bash
+java -jar /build/libs/ideaplatform-task-1.0-SNAPSHOT-all.jar
+```
+### Or
+```bash
+java -jar /build/libs/ideaplatform-task-1.0-SNAPSHOT-all.jar {$YourFileName}
 ```
 
 ## Problem statement:
